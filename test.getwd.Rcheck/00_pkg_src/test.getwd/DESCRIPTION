@@ -8,6 +8,6 @@ License: GPL-3
 LazyData: true
 Encoding: UTF-8
 Suggests: testthat
-Packaged: 2014-11-07 21:22:34 UTC; muelleki
+Packaged: 2014-11-07 22:49:23 UTC; muelleki
 Author: "Kirill Müller" [aut, cre]
 Maintainer: "Kirill Müller" <krlml+r@mailbox.org>

@@ -25,4 +25,4 @@ getwd : In test: /home/muelleki/git/R/test.getwd/test.getwd.Rcheck/tests/testtha
 > 
 > proc.time()
    user  system elapsed 
-  0.246   0.019   0.262 
+  0.184   0.030   0.207 

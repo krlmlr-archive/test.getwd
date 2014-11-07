@@ -1,10 +1,14 @@
+Loading required namespace: ulimit
 * installing *source* package ‘test.getwd’ ...
 ** R
 ** preparing package for lazy loading
 In package: /home/muelleki/git/R/test.getwd/test.getwd.Rcheck/00_pkg_src/test.getwd
+system.file: /home/muelleki/git/R/test.getwd/test.getwd.Rcheck/test.getwd/.
+getNamespaceName: test.getwd
 ** help
 No man pages found in package  ‘test.getwd’ 
 *** installing help indices
 ** building package indices
 ** testing if installed package can be loaded
+Loading required namespace: ulimit
 * DONE (test.getwd)
