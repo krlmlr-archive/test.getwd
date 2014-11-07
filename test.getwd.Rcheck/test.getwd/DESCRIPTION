@@ -1,0 +1,14 @@
+Package: test.getwd
+Title: What the Package Does (one line, title case)
+Version: 0.0-0
+Authors@R: "Kirill Müller <krlml+r@mailbox.org> [aut, cre]"
+Description: What the package does (one paragraph)
+Depends: R (>= 3.1.2)
+License: GPL-3
+LazyData: true
+Encoding: UTF-8
+Suggests: testthat
+Packaged: 2014-11-07 21:22:34 UTC; muelleki
+Author: "Kirill Müller" [aut, cre]
+Maintainer: "Kirill Müller" <krlml+r@mailbox.org>
+Built: R 3.1.2; ; 2014-11-07 21:22:34 UTC; unix
